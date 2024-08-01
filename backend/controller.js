@@ -18,6 +18,7 @@ const getUserById = (id, callback) => {
     callback(user)
 };
 
+
 exports.getUser = getUser;
 exports.getUserById = getUserById;
  
